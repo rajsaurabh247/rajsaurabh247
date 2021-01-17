@@ -1,12 +1,12 @@
 <h1 align="center">Hello, World! 👋, I'm Saurabh Raj</h1>
+<img align="right" alt="GIF"  width="400px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsaurabh247" alt="rajsaurabh247" /></a> </p>
 
-<img align="right" alt="GIF"  width="370px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Flutter, DSA for Competitive Programming**
+- 🌱 I’m currently learning **DSA for Competitive Programming**
 
-- 📫 How to reach me **https://www.linkedin.com/in/saurabh-raj-71587b1a1/**
+- 📫 How to reach me **rajsaurabh247@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
