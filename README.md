@@ -1,6 +1,5 @@
 <h1 align="center">Hello, World! 👋, I'm Saurabh Raj</h1>
 <img align="right" alt="GIF"  width="400px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsaurabh247" alt="rajsaurabh247" /></a> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
