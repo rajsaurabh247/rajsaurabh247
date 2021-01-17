@@ -1,4 +1,4 @@
-### Hi everyone! This is Saurabh Raj 👋
+### Hello, world! This is Saurabh Raj 👋
 
 - 🔭 I’m currently working on ...Android Development
 - 🌱 I’m currently learning ...DSA for Competitive Programming
