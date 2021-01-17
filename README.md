@@ -1,5 +1,5 @@
-<h1 align="center">Hello, World! 👋, I'm Saurabh Raj</h1>
-<img align="right" alt="GIF"  width="400px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
+<h1 align="left">Hello, World! 👋, I'm Saurabh Raj</h1>
+<img align="right" alt="GIF"  width="500px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
 
 - 🔭 I’m currently working on **Android Development**
 
