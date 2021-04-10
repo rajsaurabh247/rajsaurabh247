@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **DSA for Competitive Programming**
+- 🌱 I’m currently learning **Flutter for Android development**
 
 - 📫 How to reach me **rajsaurabh247@gmail.com**
 
