@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-raj-71587b1a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saurabh-raj-71587b1a1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabh-raj-71587b1a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/saurabh-raj-71587b1a1/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/r_s_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="r_s_r" height="30" width="40" /></a>
 </p>
 
