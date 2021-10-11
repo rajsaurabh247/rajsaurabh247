@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- ⚡ Fun fact **I can finish 2 hour movie in 1 hour.**
-
 - 📫 How to reach me **rajsaurabh247@gmail.com**
+
+- ⚡ Fun fact **I can finish 2 hour movie in 1 hour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
