@@ -1,9 +1,9 @@
-<h1 align="left">Hello, World! 👋 I'm Saurabh Raj</h1>
+<h1 align="left">Hello World! 👋 I'm Saurabh Raj</h1>
 <img align="right" alt="GIF"  width="500px" src="https://github.com/rajsaurabh247/rajsaurabh247/blob/main/designingme.gif" />
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **some projects.**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Web Development.**
 
 - 📫 How to reach me **rajsaurabh247@gmail.com**
 
