@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rajsaurabh247@gmail.com**
 
-- ⚡ Fun fact **I can finish 2 hour movie in 1 hour.**
+- ⚡ Fun fact **I was not born, I was downloaded!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
